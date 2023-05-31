@@ -1,16 +1,19 @@
 ---
 homebrew_installed_packages:
-  - autoconf
-  - bash-completion
-  - gettext
-  - sqlite
-  - ssh-copy-id
-  - cowsay
-  - readline
-  - pv
+  - git
+  - github/gh/gh
   - wget
-  - wrk
+  - maven
 
 homebrew_cask_apps:
-  - firefox
-  - licecap
+  - docker
+  - google-chrome
+  - slack
+  - visual-studio-code
+  - corretto11
+  - intellij-idea
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+  - homebrew/cask-versions

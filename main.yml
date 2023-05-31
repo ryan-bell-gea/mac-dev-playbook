@@ -14,8 +14,7 @@
 
   roles:
     - role: elliotweiser.osx-command-line-tools
-    - role: geerlingguy.mac.homebrew
-      tags: ['homebrew']
+    - role: ryan-bell-gea.mac.homebrew
 
   tasks:
     - import_tasks: tasks/extra-packages.yml
