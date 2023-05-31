@@ -14,7 +14,7 @@
 
   roles:
     - role: elliotweiser.osx-command-line-tools
-    - role: geerlingguy.mac.homebrew
+    - role: ryan_bell_gea.mac_onboarding.homebrew
       tags: ['homebrew']
 
   tasks:
