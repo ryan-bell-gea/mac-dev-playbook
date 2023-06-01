@@ -21,6 +21,7 @@ homebrew_cask_apps:
   - visual-studio-code
   - corretto11
   - intellij-idea
+  - postman
 
 # Silently continue if an app is already installed without cask (manually).
 homebrew_cask_accept_external_apps: true
